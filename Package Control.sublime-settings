@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"BracketHighlighter",
+		"Emmet",
+		"JsPrettier",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Zeus"
+	],
+	"repositories":
+	[
+		"https://github.com/emmetio/sublime-text-plugin/releases/latest/download/registry.json"
+	]
+}
