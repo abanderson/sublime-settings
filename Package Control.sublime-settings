@@ -10,9 +10,11 @@
 		"BracketHighlighter",
 		"EJS",
 		"Emmet",
+		"Handlebars",
 		"JsPrettier",
 		"Oceanic Next Color Scheme",
 		"Package Control",
+		"Pug",
 		"Zeus"
 	],
 	"repositories":
